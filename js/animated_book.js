@@ -405,20 +405,15 @@ function generateBookPagesHtml(photos) {
             <div class="cover-corner-br"></div>
 
             <div class="cover-inner-wrapper">
-                <div class="cover-title-area">
-                    <span class="font-hand text-4xl text-amber-400">2026</span>
-                    <div class="cover-gold-divider"></div>
-                </div>
+                <div class="cover-top-space"></div>
 
                 <div class="my-auto text-center px-4">
                     <span class="text-6xl block mb-4">👑</span>
                     <h3 class="font-hand text-4xl sm:text-5xl text-white leading-tight">С Днём Рождения, Тёма!</h3>
-                    <p class="font-hand text-2xl text-amber-200 mt-3">Будь счастлив и уверен в себе! ♡</p>
+                    <p class="font-hand text-2xl text-amber-200 mt-3">Будь счастлив</p>
                 </div>
 
-                <div class="cover-bottom-space flex items-center justify-center">
-                    <span class="text-xs uppercase font-sans tracking-widest text-slate-500">КОНЕЦ АЛЬБОМА</span>
-                </div>
+                <div class="cover-bottom-space"></div>
             </div>
         </div>
     `;
