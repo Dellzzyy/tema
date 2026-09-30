@@ -1,0 +1,11 @@
+*.avi
+*.AVI
+*.mov
+*.MOV
+*.log
+photo_2026-09-27_02-43-544.jpg
+IMG_1646_orig.JPG
+test_*.js
+test_*.py
+analyze_*.py
+verify_*.js
